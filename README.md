@@ -10,13 +10,13 @@ This portfolio tracks the technical transition of enterprise platforms from lega
 
 *   **[Initiative 1: Middleware Consolidation & Cloud Integration](#-initiative-1-middleware-consolidation--cloud-integration)**
     *   *Evolution:* Legacy Monoliths (PI/PO, Boomi) ➔ Cloud-Native API Gateways & Event Meshes.
-    *   *Execution Engine:* [`btp_interface_migration_audit.py`](./btp_interface_migration_audit.py)
+    *   *Execution Engine:* [`btp_interface_migration_audit.md`](./btp_interface_migration_audit.md)
 *   **[Initiative 2: Clean Core Assessment & Cloud Application Models](#-initiative-2-clean-core-assessment--cloud-application-models)**
     *   *Evolution:* Custom Core ABAP Technical Debt ➔ Decoupled Side-by-Side Cloud-Ready Apps.
-    *   *Execution Engine:* [`abap_clean_core_analyzer.py`](./abap_clean_core_analyzer.py) *(Upcoming Release)*
+    *   *Execution Engine:* [`abap_clean_core_analyzer.md`](./abap_clean_core_analyzer.md) *(Upcoming Release)*
 *   **[Initiative 3: Automated BTP Cloud Security Governance](#-initiative-3-automated-btp-cloud-security-governance)**
     *   *Evolution:* Manual Access Keys & Credential Sprawl ➔ Programmatic Zero Trust Identity Lifecycles.
-    *   *Execution Engine:* [`btp_iam_governance_provider.py`](./btp_iam_governance_provider.py) *(Upcoming Release)*
+    *   *Execution Engine:* [`btp_iam_governance_provider.md`](./btp_iam_governance_provider.md) *(Upcoming Release)*
 
 ---
 
