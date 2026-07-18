@@ -7,7 +7,7 @@ Legacy, on-premise middleware setups introduce immense technical debt, high infr
 
 ## 📊 Landscape Evolution Framework
 
-To maintain objectivity during a massive modernization roadmap, the system topology is evaluated through a rule engine that calculates code complexity, assigns effort metrics, and maps target milestones.
+To maintain objectivity during a massive modernization roadmap, the system topology is evaluated through a rule engine that calculates code complexity, assigns effort metrics, and maps target milestones. 
 
 ### 1. Complexity Weight Matrix
 The Complexity Weight ($CW$) is calculated based on the volume of custom legacy lines of mapping code ($L$) and modified by a system criticality multiplier ($M$):
