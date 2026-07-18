@@ -1,6 +1,6 @@
 # Multi-Cloud Disaster Recovery (DR) & Platform Resilience Strategy ☁️
 
-This architecture specification details the cross-region Disaster Recovery (DR) strategy and High Availability (HA) parameters engineered to guarantee maximum business continuity for core multi-cloud application layers.
+This architecture specification details the cross-region Disaster Recovery (DR) strategy and High Availability (HA) parameters engineered to guarantee maximum business continuity for core multi-cloud application layers. 
 
 ---
 
