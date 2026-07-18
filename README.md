@@ -1,6 +1,6 @@
 # Enterprise Architecture & Platform Modernization 🏗️
 
-Welcome to my enterprise architecture portfolio. This repository documents strategic evolution blueprints, analytical framework definitions, and production-ready Python automation runbooks. My work is dedicated to scaling mission-critical platform infrastructure, enforcing modular clean-core principles, engineering multi-cloud resilience, and driving automated cloud governance.
+Welcome to my enterprise architecture portfolio. This repository documents strategic evolution blueprints, analytical framework definitions, and production-ready Python automation runbooks. My work is dedicated to scaling mission-critical platform infrastructure, enforcing modular clean-core principles, engineering multi-cloud resilience, and driving automated cloud governance. 
 
 ---
 
